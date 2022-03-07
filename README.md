@@ -1,5 +1,6 @@
 # 06 Server Connection Tutorial
 *Instructions on how to join the server and use in-game voice chat*
+*Note that you can still join the server on a vanilla client, but you will not be able use the in-game voice chat function*
 
 ## Table of Contents
 [Installing FabricMC](#installing-fabricmc)
