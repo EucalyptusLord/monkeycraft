@@ -14,36 +14,52 @@
 
 ## Installing FabricMC
 *FabricMC is a modding toolchain for minecraft. It allows you to add mods to your minecraft client.*
-1. Download the installer from [this link]()
+1. Download the installer from [this link](https://github.com/EucalyptusLord/server-connection/raw/main/fabric-installer-0.10.2.jar)
 2. Open the .jar file you have downloaded
-3. When the installer is open, make sure the minecraft version is 1.18.2 and click *install*
+![](/img/1.png)
+3. Give permission to open the .jar in system preferences
+![](/img/2.png)
+4. When the installer is open, make sure the minecraft version is 1.18.2 and click *install*
+![](/img/3.png)
 
 ## Downloading The Relevant Mods
 *2 mods are required for the voice chat mod to work in the world.*
-1. Download *Fabric API* from [this link]()
-2. Download *Simple Voice Chat* from [this link]()
+1. Download *Fabric API* from [this link](https://github.com/EucalyptusLord/server-connection/raw/main/fabric-api-0.47.10%2B1.18.2.jar)
+2. Download *Simple Voice Chat* from [this link](https://github.com/EucalyptusLord/server-connection/raw/main/voicechat-fabric-1.18.2-2.2.26.jar)
 
 ## Place the .jar mod files into the correct folder
 *The mods will only load with the game when it is in the correct folder.*
 <br>*This step assumes that you use TLauncher, the legit Minecraft Launcher will work similarly.*
 1. Open up TLauncher
+![](/img/4.png)
 2. Start the game and make sure that the version is set to "Release fabric-loader-\<fabric version\>"
 3. Quit the game once it starts up
 4. Selected the *folder icon* in the bottom right of TLauncher to open up the *minecraft* folder
+![](/img/5.png)
 5. Go into the *mods* folder
+![](/img/6.png)
 6. Drag and drop the 2 .jar mod files that you have just downloaded in the *mods* folder
+![](/img/7.png)
 
 ## Starting the Game
 1. Open up TLauncher
 2. Start the game and make sure that the version is set to "Release fabric-loader-\<fabric version\>"
+![](/img/8.png)
 3. Select Enter the Game
-4. Join with (1lifeLMrj.aternos.me)[1lifeLMrj.aternos.me] as the IP
+4. Join with [1lifeLMrj.aternos.me](1lifeLMrj.aternos.me) as the IP
 
 ## How to Use the Mod
+
+![](/img/9.png)
+
 ### Controls
 Press the *V* key to open up the Mod GUI
+<br>
 Press the *M* key to toggle mute
+<br>
 Press the *G* key to open up the Groups Tag
+
+![](/img/10.png)
 
 ### Settings
 **Voice Chat Volume** - Changes the volume of the sound coming through the voice chat
