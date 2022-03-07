@@ -1,17 +1,19 @@
 # 06 Server Connection Tutorial
-*Instructions on how to join the server and use in-game voice chat* <br>
+# Joining the Server
+- Make sure your client is on Minecraft Version 1.18.2
+- Join the server at this IP: [1lifeLMrj.aternos.me](1lifeLMrj.aternos.me)
+
+
+# Voice Chat Setup
+*Instructions on how to use in-game voice chat* <br>
 *Note that you can still join the server on a vanilla client, but you will not be able use the in-game voice chat function*
 
 ## Table of Contents
-[Installing FabricMC](#installing-fabricmc)
-<br>
-[Downloading the Mods](#downloading-the-relevant-mods)
-<br>
-[Moving the .jar Files](#place-the-jar-mod-files-into-the-correct-folder)
-<br>
-[Starting the Game](#starting-the-game)
-<br>
-[How to Use the Mod](#how-to-use-the-mod)
+- [Installing FabricMC](#installing-fabricmc)
+- [Downloading the Mods](#downloading-the-relevant-mods)
+- [Moving the .jar Files](#place-the-jar-mod-files-into-the-correct-folder)
+- [Starting the Game](#starting-the-game)
+- [How to Use the Mod](#how-to-use-the-mod)
 
 ## Installing FabricMC
 *FabricMC is a modding toolchain for minecraft. It allows you to add mods to your minecraft client.*
