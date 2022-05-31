@@ -1,14 +1,20 @@
-# 06 Server Connection Tutorial
-# Joining the Server
-- Make sure your client is on Minecraft Version 1.18.2
-- Join the server at this IP: [1lifeLMrj.aternos.me](1lifeLMrj.aternos.me)
+# MonkeyCraft Connection Tutorial
 
+# Joining the Server
+
+- Make sure your client is on Minecraft Version 1.18.2
+- Join the server at this IP: [monkraft.tk](monkraft.tk)
+
+# Accessing the Dynmap
+Dynmap is a map of the world that can be viewed from the browser
+
+Access it here: [monkraft.tk:8123](http://monkraft.tk:8123)
 
 # Voice Chat Setup
 *Instructions on how to use in-game voice chat* <br>
 *Note that you can still join the server on a vanilla client, but you will not be able use the in-game voice chat function*
 
-## Table of Contents
+## Shortcuts
 - [Installing FabricMC](#installing-fabricmc)
 - [Downloading the Mods](#downloading-the-relevant-mods)
 - [Moving the .jar Files](#place-the-jar-mod-files-into-the-correct-folder)
@@ -49,7 +55,7 @@
 2. Start the game and make sure that the version is set to "Release fabric-loader-\<fabric version\>"
 ![](/img/8.png)
 3. Select Enter the Game
-4. Join with [1lifeLMrj.aternos.me](1lifeLMrj.aternos.me) as the IP
+4. Join with [monkraft.tk](monkraft.tk) as the IP
 
 ## How to Use the Mod
 
